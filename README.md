@@ -40,10 +40,6 @@ git commit -m 'Commit message'
 git push origin branch-name
 ```
 
-* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-* Wait for your PR review and merge approval!
-* __Star this repository__ if you had fun!
-
 ## Choose from these tasks
 ### 1. Add your name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
@@ -55,7 +51,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Create a `new file` for adding
+### 2. Create a `New file` for adding
 Add a `file_name_yourusername.xx` File to the `directory` of respective languages of your choice! Here is an example:
 
 ```Javascript
@@ -63,8 +59,14 @@ Add a `file_name_yourusername.xx` File to the `directory` of respective language
 // ENV: Node.js
 // AUTHOR: Alice Chuang
 // GITHUB: https://github.com/AliceWonderland
+```
 
-Add your code
+### 3. It's time to 'Open The Pull Request' 🏹
+
+```
+✔    Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+✔✔   Wait for your PR review and merge approval!
+✔✔✔ __Star this repository__ if you had fun!
 ```
 
 Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
