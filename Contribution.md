@@ -9,9 +9,9 @@
   Bio : Student
   GitHub URL : https://github.com/ratnesh-maurya
   
-3) Name : 
-   Place : 
-   Bio : 
-   GitHub URL :
+3) Name : Mouri Roy
+   Place : Kolkata, West Bengal, India
+   Bio : Student
+   GitHub URL :https://github.com/lognoroy
 
  
