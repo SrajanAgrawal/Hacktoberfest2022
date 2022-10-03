@@ -29,7 +29,7 @@
    Bio : Student
    GitHub URL : https://github.com/AdarshKashyap14
 
-4) Name : 
-   Place : 
-   Bio : 
-   GitHub URL : 
+7) Name : Ayesh Biswal
+   Place : Bhubaneswar, Odisha, India
+   Bio : Student
+   GitHub URL : [heyyayesh](https://github.com/heyyayesh)
