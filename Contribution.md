@@ -19,4 +19,8 @@
    Bio : 2nd year CSE Student🙂
    GitHub URL : [Utkarsh Prajapati](https://github.com/UtkarshPrajapati)
 
+5) Name : Bharti Kumari
+   Place : Kota, Rajasthan, India
+   Bio : Studnet
+   GitHub URL : https://github.com/bhartik021
  
