@@ -29,7 +29,12 @@
    Bio : Student
    GitHub URL : https://github.com/AdarshKashyap14
 
-4) Name : 
+7) Name : Chiya Pathak
+   Place : Delhi, New Delhi, India
+   Bio : Student
+   GitHub URL :https://github.com/chiyapathak
+  
+8) Name : 
    Place : 
    Bio : 
-   GitHub URL : 
+   GitHub URL :
