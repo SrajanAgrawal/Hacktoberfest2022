@@ -9,9 +9,9 @@
   Bio : Student
   GitHub URL : https://github.com/ratnesh-maurya
   
-3) Name : 
-   Place : 
-   Bio : 
-   GitHub URL :
+3) Name : Bharti Kumari
+   Place : Kota, Rajasthan, India
+   Bio : Studnet
+   GitHub URL : https://github.com/bhartik021
 
  
