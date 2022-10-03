@@ -78,7 +78,7 @@ void removeDuplicates(struct node* start)
     }
 }       
 
-
+//main
 int main ()
 {
     struct node *start=NULL;
