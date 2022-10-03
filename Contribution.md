@@ -29,7 +29,12 @@
    Bio : Student
    GitHub URL : https://github.com/AdarshKashyap14
 
-4) Name : 
-   Place : 
+7) Name : R. Pranauv Kumar
+   Place : Chennai, Tn, India
+   Bio : 2nd yr cse Student
+   GitHub URL : https://github.com/Pranauv-Kumar1803
+   
+8) Name : 
+   Place :
    Bio : 
-   GitHub URL : 
+   Github URL : 
