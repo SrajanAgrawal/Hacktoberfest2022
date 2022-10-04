@@ -85,8 +85,14 @@
     Place : Kolkata, West Bengal, India
     Bio : Student
     GitHub URL :https://github.com/lognoroy
+18) Name : Kushagra Rastogi
+    Place : Lucknow, UP, India
+    Bio : Student
+    Github URL :https://github.com/kushagrarastogi7007
 
-4) Name : 
-   Place : 
-   Bio : 
-   GitHub URL :
+
+
+19) Name : 
+    Place : 
+    Bio : 
+    GitHub URL :
