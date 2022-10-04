@@ -29,17 +29,22 @@
    Bio : Student
    GitHub URL : https://github.com/AdarshKashyap14
 
-7) Name : Chiya Pathak
+7) Name : Om Gaydhane
+   Place : Navi Mumbai,Maharashtra,India
+   Bio : Student
+   GitHub URL : https://github.com/omgaydhane
+
+8) Name : Chiya Pathak
    Place : Delhi, New Delhi, India
    Bio : Student
    GitHub URL :https://github.com/chiyapathak
   
-7) Name : Isuru Perera
+9) Name : Isuru Perera
    Place : Moratuwa, Sri Lanka
    Bio : Undergraduate 
    GitHub URL : https://github.com/Isuruperera18
    
-8) Name : Chaitanya Sheth
+10) Name : Chaitanya Sheth
    Place : Gujarat, India
    Bio : Undergraduate 
    GitHub URL : https://github.com/Chaitanya-2804   
@@ -48,4 +53,3 @@
    Place : 
    Bio : 
    GitHub URL :
-=======
