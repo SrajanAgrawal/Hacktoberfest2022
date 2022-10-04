@@ -86,7 +86,8 @@
     Bio : Student
     GitHub URL :https://github.com/lognoroy
 
-4) Name : 
-   Place : 
-   Bio : 
-   GitHub URL :
+#### Name : [Pranjal Dubey](https://github.com/dubey2709)
+- Place : Prayagraj, India
+- Bio : Student
+- GitHub URL : https://github.com/dubey2709
+
