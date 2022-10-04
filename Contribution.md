@@ -29,6 +29,7 @@
    Bio : Student
    GitHub URL : https://github.com/AdarshKashyap14
 
+
 7) Name : Om Gaydhane
    Place : Navi Mumbai,Maharashtra,India
    Bio : Student
@@ -69,8 +70,7 @@
    Bio : Student
    GitHub URL : [heyyayesh](https://github.com/heyyayesh)
 
-8) Name : 
-   Place :
-   Bio : 
-   Github URL : 
-
+15) Name : paras yadav
+   Place : agra 
+   Bio : student
+   GitHub URL : https://github.com/parasyadav08
