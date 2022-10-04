@@ -29,7 +29,7 @@
    Bio : Student
    GitHub URL : https://github.com/AdarshKashyap14
 
-4) Name : 
-   Place : 
-   Bio : 
-   GitHub URL : 
+7) Name : Isuru Perera
+   Place : Moratuwa, Sri Lanka
+   Bio : Undergraduate 
+   GitHub URL : https://github.com/Isuruperera18
