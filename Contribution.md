@@ -43,9 +43,13 @@
    Place : Moratuwa, Sri Lanka
    Bio : Undergraduate 
    GitHub URL : https://github.com/Isuruperera18
+   
+10) Name : Chaitanya Sheth
+   Place : Gujarat, India
+   Bio : Undergraduate 
+   GitHub URL : https://github.com/Chaitanya-2804   
 
-8) Name : 
+9) Name : 
    Place : 
    Bio : 
    GitHub URL :
-
