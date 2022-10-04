@@ -29,7 +29,18 @@
    Bio : Student
    GitHub URL : https://github.com/AdarshKashyap14
 
+7) Name : Chiya Pathak
+   Place : Delhi, New Delhi, India
+   Bio : Student
+   GitHub URL :https://github.com/chiyapathak
+  
 7) Name : Isuru Perera
    Place : Moratuwa, Sri Lanka
    Bio : Undergraduate 
    GitHub URL : https://github.com/Isuruperera18
+
+8) Name : 
+   Place : 
+   Bio : 
+   GitHub URL :
+=======
