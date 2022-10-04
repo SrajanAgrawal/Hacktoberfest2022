@@ -74,3 +74,8 @@
    Place : agra 
    Bio : student
    GitHub URL : https://github.com/parasyadav08
+
+16) Name : Bellatrix Lugosi
+   Place : Medan, North Sumatra, Indonesia
+   Bio : Working from home
+   Github URL : [Cvar1984](https://github.com/Cvar1984)
