@@ -73,8 +73,7 @@
 15) Name : paras yadav
    Place : agra 
    Bio : student
-   GitHub URL : https://github.com/parasyadav08
-   
+   GitHub URL : https://github.com/parasyadav08 
   
 16) Name : Mouri Roy
    Place : Kolkata, West Bengal, India
@@ -86,7 +85,7 @@
     Bio : Student
     GitHub URL :https://github.com/lognoroy
 
-4) Name : 
-   Place : 
-   Bio : 
-   GitHub URL :
+18) Name : Bellatrix Lugosi
+   Place : Medan, North Sumatra, Indonesia
+   Bio : Working from home
+   Github URL : [Cvar1984](https://github.com/Cvar1984)
