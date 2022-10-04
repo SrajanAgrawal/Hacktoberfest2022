@@ -58,3 +58,14 @@
    Place : Kanur, U.P, India
    Bio : Student
    GitHub URL : https://github.com/ashhar-rahman
+
+13) Name : R. Pranauv Kumar
+   Place : Chennai, Tn, India
+   Bio : 2nd yr cse Student
+   GitHub URL : https://github.com/Pranauv-Kumar1803
+   
+8) Name : 
+   Place :
+   Bio : 
+   Github URL : 
+
