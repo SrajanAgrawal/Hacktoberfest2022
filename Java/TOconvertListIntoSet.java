@@ -1,5 +1,5 @@
-// ******************************Java Program to convert********************
-//****************************** List to Set in Java 8**********************
+// ******************************Java Program to convert*****************
+//****************************** List to Set in Java 8*******************
 
 import java.util.*;
 import java.util.stream.*;
