@@ -9,7 +9,6 @@
   Bio : Student
   GitHub URL : https://github.com/ratnesh-maurya
 
-
 3) Name : Vinay Pathak
    Place : Kashipur, UK, India
    Bio : Student
@@ -81,3 +80,13 @@
    Place : Kolkata, West Bengal, India
    Bio : Student
    GitHub URL :https://github.com/lognoroy
+
+17) Name : Mouri Roy
+    Place : Kolkata, West Bengal, India
+    Bio : Student
+    GitHub URL :https://github.com/lognoroy
+
+4) Name : 
+   Place : 
+   Bio : 
+   GitHub URL :
