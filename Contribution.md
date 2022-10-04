@@ -64,6 +64,11 @@
    Bio : 2nd yr cse Student
    GitHub URL : https://github.com/Pranauv-Kumar1803
    
+14) Name : Ayesh Biswal
+   Place : Bhubaneswar, Odisha, India
+   Bio : Student
+   GitHub URL : [heyyayesh](https://github.com/heyyayesh)
+
 8) Name : 
    Place :
    Bio : 
