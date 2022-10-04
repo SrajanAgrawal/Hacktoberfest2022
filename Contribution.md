@@ -85,8 +85,7 @@
     Place : Kolkata, West Bengal, India
     Bio : Student
     GitHub URL :https://github.com/lognoroy
-
-4) Name : 
-   Place : 
-   Bio : 
-   GitHub URL :
+ 18) #### Name: [Pratik Agrawal](https://github.com/PratikAgrawal02)
+- Place: Amravati, Maharashtra, India
+- Bio: Student
+- GitHub: [Pratik Agrawal](https://github.com/PratikAgrawal02)
