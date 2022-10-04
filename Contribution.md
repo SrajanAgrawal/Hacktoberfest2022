@@ -29,7 +29,37 @@
    Bio : Student
    GitHub URL : https://github.com/AdarshKashyap14
 
-7) Name : R. Pranauv Kumar
+7) Name : Om Gaydhane
+   Place : Navi Mumbai,Maharashtra,India
+   Bio : Student
+   GitHub URL : https://github.com/omgaydhane
+
+8) Name : Chiya Pathak
+   Place : Delhi, New Delhi, India
+   Bio : Student
+   GitHub URL :https://github.com/chiyapathak
+  
+9) Name : Isuru Perera
+   Place : Moratuwa, Sri Lanka
+   Bio : Undergraduate 
+   GitHub URL : https://github.com/Isuruperera18
+   
+10) Name : Chaitanya Sheth
+   Place : Gujarat, India
+   Bio : Undergraduate 
+   GitHub URL : https://github.com/Chaitanya-2804   
+
+11) Name : Saurabh singh
+   Place : Kanpur ,UP,India
+   Bio : 2nd year cse student at Dr.AITH
+   GitHub URL : https://github.com/Saurabhlucifer
+   
+12) Name :  Ashhar Rahman 
+   Place : Kanur, U.P, India
+   Bio : Student
+   GitHub URL : https://github.com/ashhar-rahman
+
+13) Name : R. Pranauv Kumar
    Place : Chennai, Tn, India
    Bio : 2nd yr cse Student
    GitHub URL : https://github.com/Pranauv-Kumar1803
@@ -38,3 +68,4 @@
    Place :
    Bio : 
    Github URL : 
+
