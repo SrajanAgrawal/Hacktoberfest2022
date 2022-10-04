@@ -53,9 +53,8 @@
    Place : Kanpur ,UP,India
    Bio : 2nd year cse student at Dr.AITH
    GitHub URL : https://github.com/Saurabhlucifer
-=======
-
-12) Name : 
-   Place : 
-   Bio : 
-   GitHub URL :
+   
+12) Name :  Ashhar Rahman 
+   Place : Kanur, U.P, India
+   Bio : Student
+   GitHub URL : https://github.com/ashhar-rahman
