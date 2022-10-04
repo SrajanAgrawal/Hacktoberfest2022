@@ -25,12 +25,12 @@ class GFG {
     {
 
 
-        List<String> list = Arrays.asList("GeeksForGeeks",
-                                          "Geeks",
-                                          "forGeeks",
-                                          "A computer portal",
-                                          "for",
-                                          "Geeks");
+        List<String> list = Arrays.asList("Rishabh",
+                                          "Kumar",
+                                          "WebD",
+                                          "Hacktoberfest",
+                                          "GitHub",
+                                          "OpenSource");
 
 
         System.out.println("List: " + list);
