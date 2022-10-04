@@ -85,8 +85,14 @@
     Place : Kolkata, West Bengal, India
     Bio : Student
     GitHub URL :https://github.com/lognoroy
+    
+ 18) Name: Manu Pandey
+     Place: Jaipur, Rajasthan, India
+     Bio: Student
+     Github URL : https://github.com/ManuFake
 
 4) Name : 
    Place : 
    Bio : 
    GitHub URL :
+   
