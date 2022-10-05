@@ -86,6 +86,11 @@
     Bio : Student
     GitHub URL :https://github.com/lognoroy
 
+18) Name : Vaibhav Patil
+    Place : Ranchi, Jharkhand, India
+    Bio : Student
+    GitHub URL : [3NCRY9T3D](https://github.com/3NCRY9T3D)
+
 4) Name : 
    Place : 
    Bio : 
