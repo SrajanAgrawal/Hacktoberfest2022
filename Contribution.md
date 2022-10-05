@@ -86,6 +86,11 @@
     Bio : Student
     GitHub URL :https://github.com/lognoroy
 
+18) Name: [Shreyas Naik](https://github.com/Saishrey)
+   Place : Margao, Goa, India
+   Bio : Undergraduate
+   GitHub URL : [Shreyas Naik](https://github.com/Saishrey)
+
 4) Name : 
    Place : 
    Bio : 
