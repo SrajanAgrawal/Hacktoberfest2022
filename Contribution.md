@@ -86,6 +86,11 @@
     Bio : Student
     GitHub URL :https://github.com/lognoroy
 
+18) Name : Prathamesh Thakur
+    Place : Mumbai, Maharashtra, India
+    Bio : Student
+    GitHub URL : https://github.com/Prathamesh-Thakur
+
 4) Name : 
    Place : 
    Bio : 
